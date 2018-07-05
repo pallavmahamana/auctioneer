@@ -106,4 +106,4 @@ ENV/
 # Rope project settings
 .ropeproject
 
-auctioneer/settings/local
+auctioneer/auctioneer/settings/local.py
